@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Casita de Maju Assistant",
+  "description": "Un asistente virtual inteligente para el Liceo Psicopedagógico la Casita de Maju, capaz de responder preguntas sobre documentos educativos y cronogramas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
